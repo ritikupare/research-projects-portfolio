@@ -1,1 +1,4 @@
-# research-projects-portfolio
+# Research Portfolio
+
+
+### Quorum Sensing Simulation
