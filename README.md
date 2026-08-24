@@ -11,3 +11,7 @@ Weblink: https://ritikupare.github.io/Fireflies_synchro_models/
 ## Chaotic_metabolic_behaviour_in_bacteria
 For code: https://github.com/ritikupare/Chaotic_metabolic_behaviour_in_bacteria
 Weblink: https://ritikupare.github.io/Chaotic_metabolic_behaviour_in_bacteria/
+
+## Quorum sensing and O2 gradient in 3D confinement
+For code: https://github.com/ritikupare/Simulating-quorum-sensing-in-3D-confinements 
+Weblink: https://ritikupare.github.io/Simulating-quorum-sensing-in-3D-confinements/
