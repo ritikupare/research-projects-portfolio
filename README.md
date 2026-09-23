@@ -20,8 +20,6 @@ Weblink for simulation: https://ritikupare.github.io/web-Chaotic_metabolic_behav
 For code: https://github.com/ritikupare/Simulating-quorum-sensing-in-3D-confinements 
 Weblink: https://ritikupare.github.io/Simulating-quorum-sensing-in-3D-confinements/
 
-## Leader-Cell-Integrity-During-Gonadogenesis---Interactive-Simulation
-For code: https://github.com/ritikupare/Leader-Cell-Integrity-During-Gonadogenesis---Interactive-Simulation 
-Weblink: https://ritikupare.github.io/Leader-Cell-Integrity-During-Gonadogenesis---Interactive-Simulation/ 
+
 
 
